@@ -1,9 +1,1 @@
-hola modificado
-asda
-asd
-asd
-
-
-.
-
-contenido nuevo a ver que pasa
+Nuestro fichero es el bueno, no nos gustan los conflictos
